@@ -1,10 +1,10 @@
 bannerOne:
   first:
-    title: Amanda Rocks!
+    title: ZaneRay Rocks
     subtitle: Make the great day happen
     btn: Shop collection
   second:
-    title: Summer lovin'
+    title: Amanda's Category
     subtitle: Summer Must Have Outfits
     btn: Shop collection
 bannerTwo:
@@ -29,6 +29,6 @@ bannerThree:
     subtitle: Hot pieces for the summer
     btn: Shop collection
 suggestions:
-  title: Get beach ready
+  title: ZaneRay
   subtitle: Get your sun on
 viewAllNewProductsBtn: View all new products

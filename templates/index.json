@@ -1,0 +1,10 @@
+{
+  "content": {
+    "links": {
+      "cart": "cart",
+      "home": "home",
+      "pdp": "pdp",
+      "pop": "pop"
+    }
+  }
+}
