@@ -114,8 +114,8 @@ module.exports = function(grunt) {
       release : {
         options : {
           goal: "release",
-          repositoryId: "commercetools-bintray",
-          url: "https://api.bintray.com/maven/commercetools/maven/<%= pkg.name %>"
+          repositoryId: "ajdinstel",
+          url: "https://api.bintray.com/maven/ajdinstel/maven/<%= pkg.name %>"
         },
         files: [
           { expand: true, cwd: 'output/assets/', src: "**/*", filter: "isFile" },

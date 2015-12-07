@@ -1,6 +1,6 @@
 {
   "name": "sphere-sunrise-design-zr",
-  "version": "0.0.1",
+  "version": "0.0.2-SNAPSHOT",
   "description": "Compiles Handlebars templates with JSON data, outputting static HTML files.",
   "private": true,
   "repository": {
@@ -14,9 +14,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sphereio/sphere-sunrise-design/issues"
+    "url": "https://github.com/ajdinstel/sphere-sunrise-design-zr/issues"
   },
-  "homepage": "https://github.com/sphereio/sphere-sunrise-design#readme",
+  "homepage": "https://github.com/ajdinstel/sphere-sunrise-design-zr#readme",
   "devDependencies": {
     "autoprefixer-core": "^5.2.0",
     "escape-string-regexp": "^1.0.3",
