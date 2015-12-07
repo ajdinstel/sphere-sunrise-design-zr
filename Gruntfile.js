@@ -114,7 +114,7 @@ module.exports = function(grunt) {
       release : {
         options : {
           goal: "release",
-          repositoryId: "ajdinstel-bintray",
+          repositoryId: "sphere-sunrise-design-zr",
           version: "<%= pkg.version %>",
           url: "https://api.bintray.com/maven/ajdinstel/maven/<%= pkg.name %>"
         },
