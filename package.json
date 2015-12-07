@@ -1,6 +1,6 @@
 {
   "name": "sphere-sunrise-design-zr",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Compiles Handlebars templates with JSON data, outputting static HTML files.",
   "private": true,
   "repository": {
