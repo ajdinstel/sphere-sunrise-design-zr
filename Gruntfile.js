@@ -114,8 +114,6 @@ module.exports = function(grunt) {
       release : {
         options : {
           goal: "release",
-          repositoryId: "ajdinstel-bintray",
-          version: "<%= pkg.version %>",
           url: "https://api.bintray.com/maven/ajdinstel/maven/<%= pkg.name %>"
         },
         files: [
