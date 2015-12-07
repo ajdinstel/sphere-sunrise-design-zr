@@ -116,7 +116,7 @@ module.exports = function(grunt) {
           goal: "release",
           repositoryId: "sphere-sunrise-design-zr",
           version: "<%= pkg.version %>",
-          url: "https://api.bintray.com/maven/ajdinstel/maven/<%= pkg.name %>"
+          url: "https://ajdinstel.bintray.com/maven/<%= pkg.name %>"
         },
         files: [
           { expand: true, cwd: 'output/assets/', src: "**/*", filter: "isFile" },
