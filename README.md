@@ -1,8 +1,4 @@
-# SPHERE.IO Sunrise design
-
-![SPHERE.IO icon](https://admin.sphere.io/assets/imag-zres/sphere_logo_rgb_long.png)
-
-[![Build Status](https://travis-ci.org/ajdinstel/sphere-sunrise-design-zr.png?branch=master)](https://travis-ci.org/ajdinstel/sphere-sunrise-design-zr) [![Stories in Ready](https://badge.waffle.io/ajdinstel/sphere-sunrise-design-zr.png?label=ready&title=Ready)](https://waffle.io/ajdinstel/sphere-sunrise-design-zr)
+# SPHERE.IO Sunrise design - AD's ZR Fork
 
 ###Demo
 - [Home](http://ajdinstel.github.io/sphere-sunrise-design-zr/home.html)
