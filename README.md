@@ -1,32 +1,32 @@
 # SPHERE.IO Sunrise design
 
-![SPHERE.IO icon](https://admin.sphere.io/assets/images/sphere_logo_rgb_long.png)
+![SPHERE.IO icon](https://admin.sphere.io/assets/imag-zres/sphere_logo_rgb_long.png)
 
-[![Build Status](https://travis-ci.org/sphereio/sphere-sunrise-design.png?branch=master)](https://travis-ci.org/sphereio/sphere-sunrise-design) [![Stories in Ready](https://badge.waffle.io/sphereio/sphere-sunrise-design.png?label=ready&title=Ready)](https://waffle.io/sphereio/sphere-sunrise-design)
+[![Build Status](https://travis-ci.org/ajdinstel/sphere-sunrise-design-zr.png?branch=master)](https://travis-ci.org/ajdinstel/sphere-sunrise-design-zr) [![Stories in Ready](https://badge.waffle.io/ajdinstel/sphere-sunrise-design-zr.png?label=ready&title=Ready)](https://waffle.io/ajdinstel/sphere-sunrise-design-zr)
 
 ###Demo
-- [Home](http://sphereio.github.io/sphere-sunrise-design/home.html)
-- [Product Overview](http://sphereio.github.io/sphere-sunrise-design/pop.html)
-- [Product Detail](http://sphereio.github.io/sphere-sunrise-design/pdp.html)
-- [Cart Detail](http://sphereio.github.io/sphere-sunrise-design/cart.html)
-- [Checkout Sign In (1/5)](http://sphereio.github.io/sphere-sunrise-design/checkout-signin.html)
-- [Checkout Shipping (2/5)](http://sphereio.github.io/sphere-sunrise-design/checkout-shipping.html)
-- [Checkout Payment (3/5)](http://sphereio.github.io/sphere-sunrise-design/checkout-payment.html)
-- [Checkout Confirmation (4/5)](http://sphereio.github.io/sphere-sunrise-design/checkout-confirmation.html)
-- [Checkout Thank You (5/5)](http://sphereio.github.io/sphere-sunrise-design/checkout-thankyou.html)
-- [My Account: Personal Details](http://sphereio.github.io/sphere-sunrise-design/my-account-personal-details.html)
-- [My Account: Address Book](http://sphereio.github.io/sphere-sunrise-design/my-account-address-book.html)
-- [My Account: Payment Details](http://sphereio.github.io/sphere-sunrise-design/my-account-payment-details.html)
-- [My Account: My Orders](http://sphereio.github.io/sphere-sunrise-design/my-account-my-orders.html)
-- [My Account: My Orders - Single Order](http://sphereio.github.io/sphere-sunrise-design/my-account-my-orders-order.html)
-- [My Account: Returns / Exchange](http://sphereio.github.io/sphere-sunrise-design/my-account-returns-exchange.html)
-- [My Account: Returns / Exchange - Single Return](http://sphereio.github.io/sphere-sunrise-design/my-account-returns-exchange-order.html)
-- [My Account: Wishlist](http://sphereio.github.io/sphere-sunrise-design/my-account-wishlist.html)
-- [My Account: Login](http://sphereio.github.io/sphere-sunrise-design/my-account-login.html)
-- [Confirmation Email](http://sphereio.github.io/sphere-sunrise-design/confirmation-email.html)
-- [Dispatch Email](http://sphereio.github.io/sphere-sunrise-design/dispatch-email.html)
-- [No Search Result](http://sphereio.github.io/sphere-sunrise-design/no-search-result.html)
-- [Mix & Match](http://sphereio.github.io/sphere-sunrise-design/mix-match.html)
+- [Home](http://ajdinstel.github.io/sphere-sunrise-design-zr/home.html)
+- [Product Overview](http://ajdinstel.github.io/sphere-sunrise-design-zr/pop.html)
+- [Product Detail](http://ajdinstel.github.io/sphere-sunrise-design-zr/pdp.html)
+- [Cart Detail](http://ajdinstel.github.io/sphere-sunrise-design-zr/cart.html)
+- [Checkout Sign In (1/5)](http://ajdinstel.github.io/sphere-sunrise-design-zr/checkout-signin.html)
+- [Checkout Shipping (2/5)](http://ajdinstel.github.io/sphere-sunrise-design-zr/checkout-shipping.html)
+- [Checkout Payment (3/5)](http://ajdinstel.github.io/sphere-sunrise-design-zr/checkout-payment.html)
+- [Checkout Confirmation (4/5)](http://ajdinstel.github.io/sphere-sunrise-design-zr/checkout-confirmation.html)
+- [Checkout Thank You (5/5)](http://ajdinstel.github.io/sphere-sunrise-design-zr/checkout-thankyou.html)
+- [My Account: Personal Details](http://ajdinstel.github.io/sphere-sunrise-design-zr/my-account-personal-details.html)
+- [My Account: Address Book](http://ajdinstel.github.io/sphere-sunrise-design-zr/my-account-address-book.html)
+- [My Account: Payment Details](http://ajdinstel.github.io/sphere-sunrise-design-zr/my-account-payment-details.html)
+- [My Account: My Orders](http://ajdinstel.github.io/sphere-sunrise-design-zr/my-account-my-orders.html)
+- [My Account: My Orders - Single Order](http://ajdinstel.github.io/sphere-sunrise-design-zr/my-account-my-orders-order.html)
+- [My Account: Returns / Exchange](http://ajdinstel.github.io/sphere-sunrise-design-zr/my-account-returns-exchange.html)
+- [My Account: Returns / Exchange - Single Return](http://ajdinstel.github.io/sphere-sunrise-design-zr/my-account-returns-exchange-order.html)
+- [My Account: Wishlist](http://ajdinstel.github.io/sphere-sunrise-design-zr/my-account-wishlist.html)
+- [My Account: Login](http://ajdinstel.github.io/sphere-sunrise-design-zr/my-account-login.html)
+- [Confirmation Email](http://ajdinstel.github.io/sphere-sunrise-design-zr/confirmation-email.html)
+- [Dispatch Email](http://ajdinstel.github.io/sphere-sunrise-design-zr/dispatch-email.html)
+- [No Search Result](http://ajdinstel.github.io/sphere-sunrise-design-zr/no-search-result.html)
+- [Mix & Match](http://ajdinstel.github.io/sphere-sunrise-design-zr/mix-match.html)
 
 
 
@@ -49,7 +49,7 @@
 
 `grunt release-[patch|minor|major]` to release the current version to the Maven Bintray repository and prepare a new version (requires commercetools-bintray repository ID in Maven's settings.xml)
 
-`grunt clean build maven:install` to install to local maven repository (~/.m2/repository/io/sphere/sphere-sunrise-design)
+`grunt clean build maven:install` to install to local maven repository (~/.m2/repository/io/sphere/sphere-sunrise-design-zr)
 
 Notice you can always add `--verbose` and/or `--debug` to any command in order to obtain more information.
 
