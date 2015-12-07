@@ -94,7 +94,7 @@ module.exports = function(grunt) {
     maven: {
       options: {
         type: "jar",
-        groupId: 'io.sphere',
+        groupId: 'ad.sphere',
         artifactId: "<%= pkg.name %>",
         version: "<%= pkg.version %>",
         destFolder: "/META-INF/resources/webjars",
@@ -130,11 +130,10 @@ module.exports = function(grunt) {
       options: {
         message: "Deploy to GitHub Pages",
         user: {
-          name: 'automation-commercetools',
-          email: 'automation@commercetools.de'
+          name: 'ajdinstel',
+          email: 'ajdinstel@gmail.com'
         },
-        repo: 'https://' + process.env.GH_TOKEN + '@github.com/sphereio/sphere-sunrise-design.git',
-        silent: true,
+        repo: 'https://' + process.env.GH_TOKEN + '@github.com/ajdinstel/sphere-sunrise-design-zr.git',
         base: 'output'
       },
       src: ['**/*']
@@ -143,9 +142,9 @@ module.exports = function(grunt) {
     // Configuration of the 'i18next' task, to support internationalization in Handlebars
     i18next: {
       options: {
-        preload: ['de', 'en'],
-        lng: 'de',
-        fallbackLng: 'en',
+        preload: ['en', 'de'],
+        lng: 'en',
+        fallbackLng: 'de',
         ns: {
           namespaces: ['translations', 'home', 'catalog', 'checkout', 'my-account-login', 'no-search-result', 'mix-match', 'my-account'],
           defaultNs: 'translations'
